@@ -1,0 +1,37 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Ant.tscn" type="PackedScene" id=1]
+
+[node name="Game" type="Node2D"]
+
+[node name="Ants" type="Node" parent="."]
+
+[node name="Ant" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant2" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant3" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant4" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant5" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant6" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant7" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant8" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant9" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
+
+[node name="Ant10" parent="Ants" instance=ExtResource( 1 )]
+position = Vector2( 455.226, 298.226 )
